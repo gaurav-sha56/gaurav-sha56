@@ -1,5 +1,5 @@
 # 👋 Hey, I'm Gaurav
-**CS undergrad (AKTU, Sem IV) · Agentic AI builder · Co-founder @ Safar**
+**CS undergrad (AKTU, Sem IV) · Agentic AI builder · Contributor @ Safar**
 
 ![BTech CS](https://img.shields.io/badge/BTech%20CS-AKTU-blue?style=flat-square) ![Agentic AI](https://img.shields.io/badge/Agentic%20AI-builder-teal?style=flat-square&color=1D9E75) ![Kanpur](https://img.shields.io/badge/Kanpur-India-gray?style=flat-square)
 
