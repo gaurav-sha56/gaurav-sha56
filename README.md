@@ -25,15 +25,15 @@ No GPS hardware. Uses drivers' smartphones. 3-sided platform for fleet owners, d
 
 `Next.js` `Tailwind CSS` `Vercel`
 
-### ⚙️ OpsInsight — AI-Powered Operations Tool
-Reference project for my agentic AI learning path. Currently rebuilding core workflows as a LangGraph graph.
+### ⚙️ OpsInsight — AI-Powered CLI Tool for Beginners
+A command-line tool that brings AI assistance to your terminal. Built as a beginner-friendly entry point into agentic AI.
 
-`LangGraph` `LangChain` `Agentic AI`
+`Function Calling` `GEMINI API` `Agentic AI` `CLI`
 
 ---
 
 ## Tech stack & learning path
-`LangGraph` `LangChain` `RAG Pipelines` `Pinecone` `MCP Servers` `Anthropic API` `Next.js` `React` `Java OOP` `Python` `DSA (LeetCode ~180)`
+`LangGraph` `LangChain` `RAG Pipelines` `MCP Servers` `Anthropic API` `Gemini API` `OpenAI API` `Next.js` `React` `Java OOP` `Python` `DSA (LeetCode 200+)`
 
 ---
 
